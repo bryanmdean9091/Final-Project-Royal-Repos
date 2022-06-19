@@ -75,6 +75,34 @@ h2{
     text-align: center;
     margin-top: 17px;
 }
+.footer{
+    background-image: url("./Image/cFg.gif");
+    height: 60px;
+    width: 93%;
+    background-size: cover;
+    padding-right: 40px;
+    margin: 35px
+}
+.footer, h4{
+    background-image: url("./Image/cFg.gif");
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: Geneva;
+    float: left;
+    padding-left: 3%;
+    padding-top: 1%; 
+    margin-bottom: 15px; 
+}
+footer, h5{
+    background-image: url("./Image/cFg.gif");
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: Geneva;
+    float: right;
+    padding-right: 3%;
+    padding-top: 1%;
+}
+
 
 
 

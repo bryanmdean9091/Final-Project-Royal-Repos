@@ -53,9 +53,9 @@ font-family: 'Times New Roman', Times, serif; */
     font-style: italic;
     font-family: 'Times New Roman', Times, serif; 
     text-align: center;
-
-
+    padding-top: 35px;
 }
+
 .copy-text p{
     font-size: 25px;
     color: white;
@@ -177,25 +177,76 @@ h6{
     background-size: cover;
     padding-right: 40px;
     margin: 35px
-    }
-    h4{
-        font-size: 30px;
-        font-weight: bolder;
-        font-family: Geneva;
-        /* text-align: center; */
-        float: left;
-        padding-left: 3%;
-        padding-top: 1%;
-        /* margin: 10px, 10px; */
-    }
-    h5{
-        font-size: 30px;
-        font-weight: bolder;
-        font-family: Geneva;
-        float: right;
-        padding-right: 3%;
-        padding-top: 1%;
-    }
+}
+ h4{
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: Geneva;
+    margin-top: 3px;
+    float: left;
+ }
+h5{
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: Geneva;
+    float: right;
+    padding-right: 3%;
+    margin-top: 3px;
+ }
+.brand{ 
+     float: left;
+     margin-top: 25px;
+     margin-left: 145px;
+     margin-bottom: 50px;
+}
+.row-2{ 
+     display: inline-block;
+     float: clear
+}
+.footer{
+     background-image: url("./Image/cFg.gif");
+     height: 60px;
+     width: 93%;
+     background-size: cover;
+     padding-right: 40px;
+     margin: 35px
+ }
+ h4{
+     font-size: 30px;
+     font-weight: bolder;
+     font-family: Geneva;
+     float: left;
+     padding-left: 3%;
+     padding-top: 1%; 
+     margin-bottom: 15px; 
+}
+h5{
+     font-size: 30px;
+     font-weight: bolder;
+     font-family: Geneva;
+     float: right;
+     padding-right: 3%;
+     padding-top: 1%;
+}
+        
+        
+        
+            
+            
+        
+        
+        
+        
+        
+        
+        
+
+
+
+
+
+    
+
     
     
     
