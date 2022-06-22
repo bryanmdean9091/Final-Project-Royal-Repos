@@ -10,6 +10,7 @@ nav{
     position: sticky;
     top: 0;
     z-index: 2;
+    border-bottom: 3px solid blue;
 
 }
 .logo{
@@ -208,7 +209,7 @@ h5{
      height: 60px;
      width: 93%;
      background-size: cover;
-     padding-right: 40px;
+     padding-right: 30px;
      margin: 35px
  }
  h4{

@@ -10,7 +10,8 @@ nav{
     position: sticky;
     top: 0;
     z-index: 2;
-}
+    border-bottom: 3px solid blue;
+  }
 .logo{
     float: left;
     margin: 10px 10px;
@@ -41,38 +42,38 @@ section{
 } 
 
 .copy-text{
-background-image: url("./Image/cFg.gif");
-height: 350px;
-width: 100%;
-background-position-x: padding-box 25px, 25px, 25px, 25px ;
-background-size: cover;
-margin: 50px;
-text-align: center;
-font-size: 110px;
+    background-image: url("./Image/cFg.gif");
+    height: 350px;
+    width: 100%;
+    background-position-x: padding-box 25px, 25px, 25px, 25px ;
+    background-size: cover;
+    margin: 50px;
+    text-align: center;
+    font-size: 110px;
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .copy-text h2{
-font-size: 35px;
-font-weight: bolder;
-font-style: italic;
-font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    font-weight: bolder;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
 text-align: center;
 }
 .border-box{
-margin: 20px, 20px,20,px,20px;
-border: 15px, 15px, 15px, 15px;
-border-color: black;
-float: left ;
-text-align: center;
-padding-left: 100px;
+    margin: 20px, 20px,20,px,20px;
+    border: 15px, 15px, 15px, 15px;
+    border-color: black;
+    float: left ;
+    text-align: center;
+    padding-left: 100px;
 } 
 .footer{
-background-image: url("./Image/cFg.gif");
-height: 60px;
-width: 93%;
-background-size: cover;
-padding-right: 40px;
-margin: 35px
+    background-image: url("./Image/cFg.gif");
+    height: 60px;
+    width: 93%;
+    background-size: cover;
+    padding-right: 30px;
+    margin: 35px
 }
 h4{
     font-size: 30px;

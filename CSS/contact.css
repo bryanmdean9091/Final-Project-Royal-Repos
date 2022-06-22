@@ -1,7 +1,6 @@
 *{
-    margin:0 ;
+    margin: 0;
     padding: 0;
-    /* background-color: cyan; */
 }
 /* this is the start of nav */
 nav{
@@ -11,6 +10,7 @@ nav{
     position: sticky;
     top: 0;
     z-index: 2;
+    border-bottom: 3px solid blue;
 }
 .logo{
     float: left;
@@ -20,7 +20,6 @@ nav ul{
     float: right;
     list-style-type: none;
     background-color: white;
-   
 }
 nav ul li{
     display: inline-block;
@@ -80,21 +79,20 @@ h2{
     height: 60px;
     width: 93%;
     background-size: cover;
-    padding-right: 40px;
+    padding-right: 30px;
     margin: 35px;
-    }
- h4{
-    /* background-image: url("./Image/cFg.gif"); */
+    margin-top: 100px;
+}
+h3{
     font-size: 30px;
     font-weight: bolder;
     font-family: Geneva;
     float: left;
     padding-left: 3%;
     padding-top: 1%; 
-    margin-bottom: 15px; 
+    margin-bottom: 30px; 
 }
-h5{
-    /* background-image: url("./Image/cFg.gif"); */
+h4{
     font-size: 30px;
     font-weight: bolder;
     font-family: Geneva;
