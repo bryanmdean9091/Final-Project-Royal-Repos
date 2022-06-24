@@ -59,6 +59,7 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 text-align: center;
 }
 .border-box{
+    
     margin: 20px, 20px,20,px,20px;
     border: 15px, 15px, 15px, 15px;
     border-color: black;

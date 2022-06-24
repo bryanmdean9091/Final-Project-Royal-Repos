@@ -128,8 +128,7 @@ h4{
 }
 .row{
     display: inline-block;
-    float: clear;
-}
+   }
 h5{
     text-align: center;
     font-size: 35px;
@@ -195,8 +194,7 @@ h5{
 }
 .row-2{ 
      display: inline-block;
-     float: clear
-}
+     }
 .footer{
      background-image: url("./Image/cFg.gif");
      height: 60px;
